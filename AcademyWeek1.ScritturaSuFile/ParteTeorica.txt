@@ -1,0 +1,9 @@
+Parte Teorica
+
+1) Un Value Type è memorizzato in una memoria statica e contiene sempre un valore.
+   Può anche essere nullabile. 
+   Un reference type ammette il valore nullabile e il suo spazio di memoria viene 
+   allocato dinamicamente in fase di esecuzione del programma.
+
+3) .Net Framework è compatibile solo con sistemi Windows.
+   .Net Core è compatibile con tutti i sistemi operativi.
